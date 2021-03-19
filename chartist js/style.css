@@ -1,0 +1,22 @@
+.chart-title{
+    text-align: center;
+}
+
+.container-all{
+    margin-top: 5vh;
+    border: 2px solid black;
+    width: 98vw;
+}
+.container-chart{
+    overflow: auto; 
+    width: 98vw; 
+    height: 30vh;
+}
+.ct-zoom-rect {
+    fill: rgba(200, 100, 100, 0.3);
+    stroke: red;
+}
+.ct-chart{
+    width: 98vw; 
+    height: 25vh;
+}
